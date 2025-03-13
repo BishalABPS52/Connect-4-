@@ -1,4 +1,4 @@
-//Connect 4
+//Connect 4 Game
 #include <iostream>
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
