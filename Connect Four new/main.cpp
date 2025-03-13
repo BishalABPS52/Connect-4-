@@ -1,3 +1,4 @@
+//
 #include <iostream>
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
@@ -76,7 +77,7 @@ int main()
     // Create text objects for each bullet point
     for (const auto& point : bulletPoints)
     {
-        std::string bulletPoint = "• " + point; // Add bullet character
+        std::string bulletPoint = "â€¢ " + point; // Add bullet character
         std::vector<std::string> lines = wrapText(bulletPoint, maxWidth, font1, charSize);
 
         for (const auto& line : lines)
