@@ -1,4 +1,4 @@
-//Connect 
+//Connect 4
 #include <iostream>
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
