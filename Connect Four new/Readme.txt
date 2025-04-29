@@ -9,7 +9,7 @@ Dynamic UI: Buttons, animations, and user-friendly interface.
 Customizable Assets: Fonts, background, and music can be easily changed.
 Debug and Release Modes: Optimized builds for both development and production.
 Folder Structure
-python
+
 Copy code
 Connect4/
 ├── bin/                            # Compiled binaries and runtime files
