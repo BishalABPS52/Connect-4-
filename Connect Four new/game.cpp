@@ -1,4 +1,3 @@
-
 #include "game.h"
 
 void resetBoard(std::vector<std::vector<Player>> &board)
